@@ -1,0 +1,7 @@
+{
+  "name": "Easy Safaris Professional Portal",
+  "description": "A premium safari management and exploration portal for professional guides and enthusiasts, featuring zone exploration, offline navigation, and AI-powered park insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
